@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Subtle outer ring -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#0DFFFFFF" />
+            <size android:width="200dp" android:height="200dp" />
+        </shape>
+    </item>
+    <!-- Dark circle background -->
+    <item android:left="8dp" android:top="8dp" android:right="8dp" android:bottom="8dp">
+        <shape android:shape="oval">
+            <solid android:color="@color/button_background" />
+        </shape>
+    </item>
+    <!-- Gray border ring -->
+    <item android:left="8dp" android:top="8dp" android:right="8dp" android:bottom="8dp">
+        <shape android:shape="oval">
+            <solid android:color="#00000000" />
+            <stroke android:width="2dp" android:color="@color/torch_off" />
+        </shape>
+    </item>
+</layer-list>

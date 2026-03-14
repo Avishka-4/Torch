@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@color/text_primary"
+        android:pathData="M6,2v8h2.5l5.5,5.5V4L8.5,9H6z
+                         M18,11c0,-1.66 -1.02,-3.11 -2.5,-3.5v7c1.48,-0.39 2.5,-1.84 2.5,-3.5z
+                         M16,11c0,0.55 -0.23,1.08 -0.64,1.46L15,13v-2c0.41,-0.38 0.64,-0.91 0.64,-1.46z
+                         M12,16l-2,2v2l2,-2l2,2v-2l-2,-2z" />
+    <!-- Strobe effect lines -->
+    <path
+        android:fillColor="@color/torch_on"
+        android:pathData="M2,8L4,8L4,10L2,10L2,8Z
+                         M2,12L4,12L4,14L2,14L2,12Z
+                         M2,16L4,16L4,18L2,18L2,16Z" />
+</vector>

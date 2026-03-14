@@ -1,0 +1,18 @@
+# Gradle files
+.gradle/
+build/
+gradle.properties
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kotlin
+.kotlin/
