@@ -2,7 +2,7 @@
 
 Effective date: March 14, 2026
 
-Your App Name ("us", "we", or "our") operates the Your App Name mobile application (the "Service").
+App Name: Torch
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
 
@@ -28,4 +28,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-*   By email: your.email@example.com
+*   By email: avishkanishada73@gmail.com
+
+
